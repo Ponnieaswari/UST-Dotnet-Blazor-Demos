@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312C6D-D520-4B1A-961D-41F03255F480}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.csproj|d:\\turmio.ai\\ust demos track 4\\interactivewasmmodedemo\\interactivewasmmodedemo\\interactivewasmmodedemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312C6D-D520-4B1A-961D-41F03255F480}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.csproj|solutionrelative:interactivewasmmodedemo\\interactivewasmmodedemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF312C6D-D520-4B1A-961D-41F03255F480}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.csproj|d:\\turmio.ai\\ust demos track 4\\interactivewasmmodedemo\\interactivewasmmodedemo\\interactivewasmmodedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF312C6D-D520-4B1A-961D-41F03255F480}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.csproj|solutionrelative:interactivewasmmodedemo\\interactivewasmmodedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77034DB8-6381-48B9-9016-8B14DA10DC51}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\InteractiveWASMmodedemo.Client.csproj|d:\\turmio.ai\\ust demos track 4\\interactivewasmmodedemo\\interactivewasmmodedemo\\interactivewasmmodedemo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77034DB8-6381-48B9-9016-8B14DA10DC51}|InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\InteractiveWASMmodedemo.Client.csproj|solutionrelative:interactivewasmmodedemo\\interactivewasmmodedemo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:57:00.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:56:57.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "InteractiveWASMmodedemo\\InteractiveWASMmodedemo.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:56:46.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

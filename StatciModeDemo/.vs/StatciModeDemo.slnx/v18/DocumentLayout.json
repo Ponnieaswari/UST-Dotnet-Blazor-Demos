@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\statcimodedemo\\statcimodedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|solutionrelative:statcimodedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\statcimodedemo\\statcimodedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|solutionrelative:statcimodedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\statcimodedemo\\statcimodedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|solutionrelative:statcimodedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\statcimodedemo\\statcimodedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F3D428-84DF-4CB1-8A0C-D37D1E022FD1}|StatciModeDemo\\StatciModeDemo.csproj|solutionrelative:statcimodedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "StatciModeDemo\\Components\\App.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\App.razor",
+              "RelativeToolTip": "StatciModeDemo\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:26:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StatciModeDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StatciModeDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:20:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "StatciModeDemo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "StatciModeDemo\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:19:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StatciModeDemo\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\StatciModeDemo\\StatciModeDemo\\Program.cs",
+              "RelativeToolTip": "StatciModeDemo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:16:55.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

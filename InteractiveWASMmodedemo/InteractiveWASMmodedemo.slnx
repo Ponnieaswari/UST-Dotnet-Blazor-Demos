@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InteractiveWASMmodedemo/InteractiveWASMmodedemo.Client/InteractiveWASMmodedemo.Client.csproj" />
+  <Project Path="InteractiveWASMmodedemo/InteractiveWASMmodedemo/InteractiveWASMmodedemo.csproj" />
+</Solution>

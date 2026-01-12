@@ -1,0 +1,1 @@
+D:\Turmio.ai\UST Demos Track 4\InteractiveWASMmodedemo\InteractiveWASMmodedemo\InteractiveWASMmodedemo.Client\obj\Debug\net10.0\staticwebassets.build.json

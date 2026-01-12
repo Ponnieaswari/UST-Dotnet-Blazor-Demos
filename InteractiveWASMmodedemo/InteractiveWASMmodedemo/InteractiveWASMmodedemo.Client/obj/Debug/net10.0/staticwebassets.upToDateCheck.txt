@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+D:\Turmio.ai\UST Demos Track 4\InteractiveWASMmodedemo\InteractiveWASMmodedemo\InteractiveWASMmodedemo.Client\wwwroot\appsettings.Development.json
+D:\Turmio.ai\UST Demos Track 4\InteractiveWASMmodedemo\InteractiveWASMmodedemo\InteractiveWASMmodedemo.Client\wwwroot\appsettings.json

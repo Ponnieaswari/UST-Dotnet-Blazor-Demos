@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrlFzD9Viyg=",
+  "success": true,
+  "projectFilePath": "D:\\Turmio.ai\\UST Demos Track 4\\FirstBlazorApp\\FirstBlazorApp\\FirstBlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
