@@ -1,0 +1,1 @@
+D:\Turmio.ai\UST Demos Track 4\InteractiveAutomodeDemo\InteractiveAutomodeDemo\InteractiveAutomodeDemo.Client\obj\Debug\net10.0\staticwebassets.build.json

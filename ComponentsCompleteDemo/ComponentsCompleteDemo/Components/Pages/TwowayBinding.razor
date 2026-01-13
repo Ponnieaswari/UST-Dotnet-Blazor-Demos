@@ -1,0 +1,10 @@
+﻿<h3>TwowayBinding</h3>
+<input class="form-control" @bind="username" />
+
+@* <InputText class="form-control" @bind-Value="username" /> *@
+
+<span>This is to verify 2 wy binding : Hi @username</span>
+
+@code {
+    string username = "Ponni";
+}

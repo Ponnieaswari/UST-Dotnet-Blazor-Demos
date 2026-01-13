@@ -1,0 +1,6 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+Layout\ReconnectModal.razor.js
+D:\Turmio.ai\UST Demos Track 4\InteractiveAutomodeDemo\InteractiveAutomodeDemo\InteractiveAutomodeDemo.Client\wwwroot\appsettings.Development.json
+D:\Turmio.ai\UST Demos Track 4\InteractiveAutomodeDemo\InteractiveAutomodeDemo\InteractiveAutomodeDemo.Client\wwwroot\appsettings.json
+D:\Turmio.ai\UST Demos Track 4\InteractiveAutomodeDemo\InteractiveAutomodeDemo\InteractiveAutomodeDemo.Client\Layout\ReconnectModal.razor.js

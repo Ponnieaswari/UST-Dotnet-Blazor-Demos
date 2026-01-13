@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveAutomodeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F90B19E-6473-438A-B7C0-34B4AFD0B924}|InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\interactiveautomodedemo\\interactiveautomodedemo\\interactiveautomodedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F90B19E-6473-438A-B7C0-34B4AFD0B924}|InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo.csproj|solutionrelative:interactiveautomodedemo\\interactiveautomodedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F90B19E-6473-438A-B7C0-34B4AFD0B924}|InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo.csproj|d:\\turmio.ai\\ust demos track 4\\interactiveautomodedemo\\interactiveautomodedemo\\interactiveautomodedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F90B19E-6473-438A-B7C0-34B4AFD0B924}|InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo.csproj|solutionrelative:interactiveautomodedemo\\interactiveautomodedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Program.cs",
+              "RelativeToolTip": "InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:30:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Components\\App.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Components\\App.razor",
+              "RelativeToolTip": "InteractiveAutomodeDemo\\InteractiveAutomodeDemo\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:30:12.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿
+
+<div class="container mt-4">
+    <div class="card shadow p-4 mb-4">
+        <div class="row">
+
+            <div class="col-md-4 mb-3">
+                <label class="form-label">Name</label>
+                <input class="form-control" placeholder="Enter Learnersname" @bind="newlearner.Name" />
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <label class="form-label">Stream</label>
+                <input class="form-control" placeholder="Enter Technology" @bind="newlearner.Stream" />
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <label class="form-label">Organization</label>
+                <input class="form-control" placeholder="Enter Orgname" @bind="newlearner.Organization" />
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <label class="form-label">Score</label>
+                <input type="number" class="form-control" placeholder="Enter Score" @bind="newlearner.Score"  />
+            </div>
+        </div>
+
+        <button class="btn btn-success" @onclick="AddLearner">
+            Save Learner
+        </button>
+    </div>
+</div>
+
+@code {
+
+    Learner newlearner = new(); // target -typed new expression (C# 9.0 feature)
+    List<Learner> learners = new();
+
+    void AddLearner()
+    {
+       // learners.Add(newlearner);
+       learners.Add(new Learner
+        {
+            Name = newlearner.Name,
+            Stream = newlearner.Stream,
+            Organization = newlearner.Organization,
+            Score = newlearner.Score
+        });
+
+        foreach(var learner in learners)
+        {
+            Console.WriteLine($"Name: {learner.Name}, Stream: {learner.Stream}, Organization: {learner.Organization}, Score: {learner.Score}");
+        }
+       // newlearner = new Learner();
+    }
+
+    class Learner
+    {
+        public string? Name { get; set; } = "MSP";
+        public string? Stream { get; set; } = "AI";
+        public string? Organization { get; set; } = "Microsoft";
+        public int Score { get; set; } = 100;
+    }
+
+}
