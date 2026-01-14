@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTXlMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/ChildComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGlsZENvbXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,8 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybmVyLVNpbXBsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/Learner-Validated.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybmVyLVZhbGlkYXRlZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/ParentComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJlbnRDb21wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Turmio.ai/UST Demos Track 4/ComponentsCompleteDemo/ComponentsCompleteDemo/Components/Pages/Profile.razor]

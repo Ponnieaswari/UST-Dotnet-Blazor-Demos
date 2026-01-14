@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\learner-simple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\learner-simple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\childcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\childcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\parentcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\parentcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\databindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\databindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\learner-simple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\learner-simple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\mylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\mylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\twowaybinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\databindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\databindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE8E2D02-2F61-4C4C-A1F1-5FDC51D3A983}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\mylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\mylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|d:\\turmio.ai\\ust demos track 4\\componentscompletedemo\\componentscompletedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02557F4-CABA-4DA1-CA34-94F14187CECB}|ComponentsCompleteDemo\\ComponentsCompleteDemo.csproj|solutionrelative:componentscompletedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,12 +75,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChildComp.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\ChildComp.razor",
+              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\ChildComp.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\ChildComp.razor",
+              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\ChildComp.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:52:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentComp.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\ParentComp.razor",
+              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\ParentComp.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\ParentComp.razor",
+              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\ParentComp.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:52:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:16:23.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\App.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\App.razor",
+              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T04:39:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Learner-Simple.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Learner-Simple.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\Learner-Simple.razor",
               "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Learner-Simple.razor",
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\Learner-Simple.razor",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T05:36:32.797Z",
               "EditorCaption": ""
@@ -72,6 +140,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:44:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TwowayBinding.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\TwowayBinding.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\TwowayBinding.razor",
@@ -79,12 +160,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\TwowayBinding.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:25:22.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:25:22.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DataBindingDemo.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\DataBindingDemo.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\DataBindingDemo.razor",
@@ -92,12 +172,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\DataBindingDemo.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:18:28.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:18:28.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "NotFound.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\NotFound.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\NotFound.razor",
@@ -105,12 +184,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\NotFound.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:16:03.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:16:03.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Routes.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Routes.razor",
@@ -123,20 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:44:33.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MyLayout.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Layout\\MyLayout.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Layout\\MyLayout.razor",
@@ -144,12 +209,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Layout\\MyLayout.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:06:00.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:06:00.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Layout\\NavMenu.razor",
@@ -157,12 +221,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:49:24.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:49:24.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Layout\\MainLayout.razor",
@@ -170,12 +233,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T05:05:01.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:05:01.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Profile.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Profile.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\Profile.razor",
@@ -183,12 +245,11 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\Profile.razor",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:42:32.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:42:32.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Counter.razor",
               "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ComponentsCompleteDemo\\ComponentsCompleteDemo\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "ComponentsCompleteDemo\\Components\\Pages\\Counter.razor",
@@ -196,8 +257,7 @@
               "RelativeToolTip": "ComponentsCompleteDemo\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T04:39:42.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:39:42.2Z"
             }
           ]
         }
