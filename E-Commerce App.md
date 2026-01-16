@@ -1,6 +1,7 @@
 # 🛒 Blazor Assignment  
-## Mini E-Commerce Application
+## Mini E-Commerce Application (With Validation, Services & State Management)
 
+---
 
 ## 1. Assignment Title  
 **Build a Mini E-Commerce Application using Blazor**
@@ -9,14 +10,15 @@
 
 ## 2. Assignment Objective  
 
-The objective of this assignment is to help learners understand and apply **core Blazor concepts** by building a simple **E-commerce web application**.
+The objective of this assignment is to help learners build a **realistic Blazor application** by applying:
 
-By completing this assignment, learners will be able to:
-- Build UI using **Blazor components**
-- Apply **data binding** effectively
-- Work with **EditForm and validations**
-- Implement **parent-to-child communication**
-- Design clean UI using **Bootstrap and CSS**
+- Component-based UI development
+- Form handling with validation
+- Shared services and state management
+- Parent–Child communication
+- Clean UI using Bootstrap and CSS
+
+By completing this assignment, learners will understand how **real Blazor applications are structured**.
 
 ---
 
@@ -24,41 +26,40 @@ By completing this assignment, learners will be able to:
 
 | Technology | Purpose |
 |----------|--------|
-| .NET 8 / .NET 9 | Application runtime |
+| .NET 8 / .NET 9 | Runtime |
 | Blazor Web App / Blazor Server | Frontend framework |
-| Razor Components | UI development |
-| Bootstrap | Styling & layout |
-| CSS | Custom styling |
-| C# | Business logic |
+| Razor Components | UI |
+| Bootstrap | Styling |
+| CSS | UI customization |
+| C# | Logic & Models |
 
 ---
 
-## 4. Application Modules / Screens  
+## 4. Application Modules  
 
-The application should include the following modules:
+The application must include the following modules:
 
 1. Signup  
 2. Login  
-3. Product List  
-4. Add Product  
-5. Product Card (Child Component)
+3. Dashboard  
+4. Product List  
+5. Add Product  
+6. Product Card (Child Component)
 
 ---
 
-## 5. Concepts to Be Covered  
+## 5. Core Concepts to Be Covered  
 
-This assignment must demonstrate the following Blazor concepts:
-
-### Blazor Core Concepts
-- Component creation using `.razor`
+### Blazor Fundamentals
+- Component creation (`.razor`)
 - Routing using `@page`
-- Parent and Child components
-- Parameter passing using `[Parameter]`
-- Event handling
+- Layout usage
+- Parent & Child components
+- Parameter passing (`[Parameter]`)
 
 ### Data Binding
-- One-way data binding
-- Two-way data binding using `@bind`
+- One-way binding
+- Two-way binding using `@bind`
 - Object binding
 
 ### Forms & Validation
@@ -67,24 +68,39 @@ This assignment must demonstrate the following Blazor concepts:
 - `ValidationSummary`
 - Model-based validation
 
-### UI & Styling
-- Bootstrap grid system
-- Bootstrap cards
-- Forms styled using Bootstrap
-- Custom CSS enhancements
+### Services & State Management
+- Creating services
+- Dependency Injection (`@inject`)
+- Shared application state
+- Login state management
+- Product state management
 
 ---
 
-## 6. Detailed Functional Requirements  
+## 6. Application State Management Requirement  
+
+The application **must use shared services** to manage state.
+
+### Required State Objects:
+- Logged-in user information
+- Product collection
+
+### Example Services:
+- `AuthStateService` → Login state
+- `ProductService` → Product list state
 
 ---
 
-### 6.1 Signup Component  
+## 7. Detailed Functional Requirements  
+
+---
+
+## 7.1 Signup Component  
 
 **Route:** `/signup`
 
-#### UI Requirements
-- Signup form created using `EditForm`
+### UI Requirements
+- Signup form using `EditForm`
 - Fields:
   - Full Name
   - Email
@@ -92,114 +108,156 @@ This assignment must demonstrate the following Blazor concepts:
   - Confirm Password
 - Submit button
 
-#### Functional Requirements
-- Use model-based validation
-- All fields must be mandatory
-- Email must be in valid format
-- Password must have a minimum length
-- Show success message on successful signup
+### Validation Requirements
+- All fields required
+- Email format validation
+- Password minimum length (6)
+- Confirm password must match password
 
-#### Concepts Covered
+### Functional Requirements
+- Use **model-based validation**
+- Show validation messages using:
+  - `ValidationSummary`
+- Show success alert on signup
+
+### Concepts Covered
 - EditForm
-- Two-way data binding
 - DataAnnotations validation
-- Event handling
+- Two-way data binding
 
 ---
 
-### 6.2 Login Component  
+## 7.2 Login Component  
 
 **Route:** `/login`
 
-#### UI Requirements
+### UI Requirements
 - Login form using `EditForm`
 - Fields:
   - Email
   - Password
 - Login button
 
-#### Functional Requirements
-- Validate required fields
-- Display login success or failure message
-- Mock login logic is sufficient (no backend required)
+### Validation Requirements
+- Required field validation
+- Email format validation
 
-#### Concepts Covered
+### State Management Requirements
+- On successful login:
+  - Store login status in `AuthStateService`
+  - Store logged-in user name/email
+
+### Functional Requirements
+- Redirect user to Dashboard after login
+
+### Concepts Covered
 - EditForm
 - Validation
-- Event handling
+- Shared state using service
 
 ---
 
-### 6.3 Product List Component  
+## 7.3 Dashboard Component  
+
+**Route:** `/dashboard`
+
+### UI Requirements
+- Welcome message using logged-in user name
+- Logout button
+
+### State Management Requirements
+- Read login state from `AuthStateService`
+- If user is not logged in:
+  - Show warning message
+  - Redirect to Login page
+
+### Functional Requirements
+- Logout clears state and redirects to Login
+
+### Concepts Covered
+- State management
+- Conditional rendering
+- Navigation
+
+---
+
+## 7.4 Product List Component  
 
 **Route:** `/products`
 
-#### UI Requirements
+### UI Requirements
 - Display products using **Bootstrap cards**
 - Each card should display:
   - Product Name
   - Description
   - Price
 
-#### Functional Requirements
-- Products stored in a collection (`List<Product>`)
-- Render product list using `@foreach`
-- Use a **Child Component** for displaying each product
+### State Management Requirements
+- Products must be stored in `ProductService`
+- Product List component must read data from the service
 
-#### Concepts Covered
-- Collections
-- One-way data binding
-- Parent to child communication
+### Functional Requirements
+- Render products using `@foreach`
+- Use a **Product Card child component**
+
+### Concepts Covered
+- Shared service
+- One-way binding
+- Parent → Child communication
 
 ---
 
-### 6.4 Add Product Component  
+## 7.5 Add Product Component  
 
 **Route:** `/add-product`
 
-#### UI Requirements
-- Form using `EditForm`
+### UI Requirements
+- Product form using `EditForm`
 - Fields:
   - Product Name
   - Description
   - Price
 - Submit button
 
-#### Functional Requirements
-- Add product to product collection
-- Clear form after submission
-- Newly added product should appear in Product List
+### Validation Requirements
+- All fields required
+- Price must be greater than 0
 
-#### Concepts Covered
+### State Management Requirements
+- On submit:
+  - Add product to `ProductService`
+- Product list should update automatically
+
+### Concepts Covered
 - EditForm
+- Validation
 - Two-way binding
-- Event handling
+- Service-based state update
 
 ---
 
-### 6.5 Product Card Component (Child Component)  
+## 7.6 Product Card Component (Child Component)  
 
-#### UI Requirements
-- Card layout using Bootstrap
-- Display product details clearly
+### UI Requirements
+- Bootstrap card layout
+- Display product details
 
-#### Functional Requirements
-- Receive product data from parent component
-- Use `[Parameter]` attribute for data binding
+### Functional Requirements
+- Receive product object from parent using `[Parameter]`
 
-#### Concepts Covered
-- Child components
+### Concepts Covered
+- Child component
 - Parameter binding
 - Component reusability
 
 ---
 
-## 7. Parent to Child Communication  
+## 8. Parent → Child Communication  
 
-- **Product List** acts as the Parent component
-- **Product Card** acts as the Child component
+- **Product List** is the Parent
+- **Product Card** is the Child
 - Product data must be passed using `[Parameter]`
 
-**Example (Conceptual):**
+Example:
 ```razor
 <ProductCard Product="product" />
