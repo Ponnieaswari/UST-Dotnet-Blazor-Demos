@@ -1,0 +1,13 @@
+﻿<h3>I am ChComponent</h3>
+
+<button @onclick="NotifyParent">Click me</button>
+
+@code {
+    [Parameter]
+    public EventCallback Onclicked { get; set; } 
+
+    async Task NotifyParent()
+    {
+        await Onclicked.InvokeAsync(null);
+    }
+}

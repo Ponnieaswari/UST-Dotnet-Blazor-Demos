@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\services\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\services\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\servicesandstatemanagementdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\pages\\aboutus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\pages\\aboutus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\services\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\services\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|d:\\turmio.ai\\ust demos track 4\\servicesandstatemanagementdemo\\servicesandstatemanagementdemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B739ACC8-472F-446F-9CF1-BFBC55DCE6CA}|ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj|solutionrelative:servicesandstatemanagementdemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Services\\AppState.cs",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Services\\AppState.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Services\\AppState.cs",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Services\\AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:24:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoard.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\DashBoard.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Pages\\DashBoard.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\DashBoard.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Pages\\DashBoard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T05:16:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Pages\\Login.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T05:09:06.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T05:06:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:55:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Program.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Program.cs",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:56:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aboutus.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Aboutus.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Pages\\Aboutus.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Aboutus.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Pages\\Aboutus.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T05:05:19.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesandStateManagementDemo",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\ServicesandStateManagementDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T04:53:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:59:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GreetingService.cs",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Services\\GreetingService.cs",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Services\\GreetingService.cs",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Services\\GreetingService.cs",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Services\\GreetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:53:40.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ServicesandStateManagementDemo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Turmio.ai\\UST Demos Track 4\\ServicesandStateManagementDemo\\ServicesandStateManagementDemo\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ServicesandStateManagementDemo\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:40:28.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

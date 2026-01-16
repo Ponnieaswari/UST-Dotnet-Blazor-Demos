@@ -1,0 +1,24 @@
+﻿<h3>I am ParComponent</h3>
+
+@if (message != "")
+{
+
+<p style="color: green;">@message</p>
+}
+else
+{
+    <p style="color: red;">No message from Parent so far</p>
+}
+
+<ChComponent Onclicked="HandleChildClick"/>
+
+@code {
+    string message = "";
+
+    void HandleChildClick()
+    {
+        message = "This is a notification from Child Component";
+        //Console.WriteLine("Child component button clicked!");
+    }
+
+}

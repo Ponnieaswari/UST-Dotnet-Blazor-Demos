@@ -1,0 +1,15 @@
+﻿@page "/aboutus"
+<h3>Aboutus</h3>
+@inject GreetingService aboutsvc
+
+<h2>@message</h2>
+
+@code {
+    string message = "";
+
+   protected override void OnInitialized()
+   {
+       message=aboutsvc.GetWelcomeMessage("Sreyas");
+   }
+
+}

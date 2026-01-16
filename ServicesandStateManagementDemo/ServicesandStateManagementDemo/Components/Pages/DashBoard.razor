@@ -1,0 +1,38 @@
+﻿@page "/dashboard"
+@rendermode InteractiveServer
+@inject AppState AppState
+@inject NavigationManager Nav
+
+
+<h3>DashBoard</h3>
+
+<div class="container mt-5">
+
+    @if(!AppState.IsLoggedIn)
+    {
+        <div class="alert alert-warning text-center">Please Login to access the dashboard</div>
+    }
+    else
+    {
+        <div class="card shadow-lg p-4">
+        <h3>Welcome @AppState.UserName</h3>
+
+        <p class="text-muted">This is your dashboard where you can manage your activities.</p>
+
+        <button class="btn btn-danger mt-3" @onclick="Logout">Logout</button>
+        </div>
+    }
+  
+</div>
+
+@code {
+
+    void Logout()
+    {
+        AppState.IsLoggedIn = false;
+        AppState.UserName = "";
+
+        Nav.NavigateTo("/login");
+    }
+
+}
