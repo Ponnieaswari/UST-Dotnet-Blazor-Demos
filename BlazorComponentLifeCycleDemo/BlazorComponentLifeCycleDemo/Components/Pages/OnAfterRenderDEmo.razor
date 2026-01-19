@@ -1,0 +1,19 @@
+﻿@rendermode InteractiveServer
+<h3>OnAfterRenderDEmo</h3>
+<p>@status</p>
+
+@code {
+
+    string status = "Component not rendered yet";
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            status = "Component rendered at " + DateTime.Now.ToLongTimeString();
+            StateHasChanged(); // Trigger a re-render to update the UI
+        }
+    }
+
+
+}

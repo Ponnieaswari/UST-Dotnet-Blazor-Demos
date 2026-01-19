@@ -1,0 +1,13 @@
+﻿<h3>OnInitializedDemo</h3>
+
+<span>@message</span>
+
+@code {
+    string message="";
+
+
+    protected override void OnInitialized()
+    {
+        message = "OnInitialized method called at " + DateTime.Now.ToLongTimeString();
+    }
+}

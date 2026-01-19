@@ -1,0 +1,10 @@
+﻿@rendermode InteractiveServer
+<h3>ParentComp</h3>
+
+<input class="form-control" @bind="msg" />
+
+<ChildComp Message="@msg"></ChildComp>
+
+@code {
+    string msg = "Hello from Parent Component";
+}

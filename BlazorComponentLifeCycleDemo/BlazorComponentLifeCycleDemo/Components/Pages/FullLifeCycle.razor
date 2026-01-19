@@ -1,0 +1,19 @@
+﻿@rendermode InteractiveServer
+<h3>FullLifeCycleDEmo</h3>
+<p>@log</p>
+
+<button class="btn btn-primary" @onclick="ChangeParameter">Change The Parameter</button>
+
+<ChildLifecycle Value="@childValue"></ChildLifecycle>
+
+@code {
+
+    string log = "Parent Loaded";
+    string childValue = "Initial Child Value";
+
+    void ChangeParameter()
+    {
+        childValue = "Updated Child Value at " + DateTime.Now.ToLongTimeString();
+    }
+
+}

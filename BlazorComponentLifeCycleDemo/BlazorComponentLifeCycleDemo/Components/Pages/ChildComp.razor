@@ -1,0 +1,16 @@
+﻿@rendermode InteractiveServer
+<h3>ChildComp</h3>
+
+<p> REcieved Message is : @Message</p>
+
+@code {
+    [Parameter]
+    public string Message { get; set; } = "";
+
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("OnParametersSet method called/Parameters Updated ");
+        //StateHasChanged();
+    }
+
+}

@@ -1,0 +1,32 @@
+﻿@rendermode InteractiveServer
+<h3>ChildLifecycle</h3>
+
+<p> Value passed is : @Value</p>
+@code {
+
+    [Parameter]
+    public string Value { get; set; } = "";
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine("Child : Initialized ");
+    }
+
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("Child : Parameters Set/Updated ");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            Console.WriteLine("Child : First Render Completed ");
+        }
+        else
+        {
+            Console.WriteLine("Child : Re-Render Completed ");
+        }
+    }
+
+}
